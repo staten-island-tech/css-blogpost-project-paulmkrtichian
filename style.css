@@ -1,6 +1,10 @@
 body {
 background-color: blue;
-color: red
-font-sizes 25px;
 
+
+}
+
+
+.white-font{
+    color: white;
 }
