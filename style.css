@@ -1,16 +1,122 @@
 body {
-background-color: blue;
+    background-color: blue;
 
 
 }
 
+.white-font {
 
-.white-font{
-    width: 250px;
+    width: 500px;
     margin: 30px auto;
     text-align: center;
     background-color: yellow;
+
+
+    border: 4px solid red
+}
+
+.background {
+    background-image: url(media/Pizza.jpeg);
+    height: 80vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin: 80px auto;
+    border: 10px solid red;
+    padding: 50px;
+    height: 80vh;
+    width: 50vw;
+
+}
+
+.blue-font {
+    margin-bottom: 50px;
+    width: 1000px;
+    margin: 30px auto;
+    text-align: center;
+    background-color: yellow;
+    position: absolute;
+
+    top: 1300;
+    left: 27.9%;
+
+
+
+    border: 4px solid red;
+}
+
+.red-font {
+    width: 500px;
+    margin: 40px auto;
+    text-align: center;
+    background-color: yellow;
+    position: absolute;
+
+    top: 190;
+    left: 39%;
+
+
+
+    border: 4px solid red;
+}
+
+
+
+
+.background2 {
     
-    
-    border: 3px solid red;
+    background-image: url(media/soccer.jpeg);
+    height: 80vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin: 80px auto;
+    border: 10px solid red;
+    padding: 50px;
+    height: 80vh;
+    width: 50vw;
+}
+
+.green-font{
+    width: 500px;
+    margin: 40px auto;
+    text-align: center;
+    background-color: yellow;
+    position: absolute;
+
+    top: 1380;
+    left: 39%;
+
+
+
+    border: 4px solid red;
+}
+
+.yellow-font {
+    margin-bottom: 80px;
+    width: 1000px;
+    margin: 30px auto;
+    text-align: center;
+    background-color: yellow;
+    position: absolute;
+
+    top: 2490;
+    left: 27.9%;
+
+
+
+    border: 4px solid red
+}
+
+.background3 {
+    background-image: url(media/elden\ ring.jpeg);
+    height: 80vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin: 80px auto;
+    border: 10px solid red;
+    padding: 50px;
+    height: 80vh;
+    width: 50vw; 
 }
